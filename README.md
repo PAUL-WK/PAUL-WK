@@ -59,35 +59,18 @@
 
 ### 📧 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/paulkimani" target="blank">
+  <a href="https://www.linkedin.com/in/paul-kimani-228a42275/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/paulkimani" target="blank">
+  <a href="https://x.com/PaulKim04102081" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://github.com/paulkimani" target="blank">
+  <a href="https://github.com/PAUL-WK" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://medium.com/@paulkimani" target="blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
 ---
-
-### 📧 Connect With Me  
-<p align="left">
-  <a href="[https://linkedin.com/in/paulkimani](https://www.linkedin.com/in/paul-kimani-228a42275/)" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="[https://twitter.com/paulkimani](https://x.com/PaulKim04102081)" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="[https://github.com/paulkimani](https://github.com/PAUL-WK)" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-</p>
 
 ---
    git add README.md
