@@ -18,7 +18,7 @@
 ### 📌 My Work  
 - 🚀 **Projects Portfolio**: [Visit Here](https://paul-kimani.github.io/)  
 - 📝 **Technical Articles & Research**: [Medium Blog](https://medium.com/@paulkimani)  
-- 📊 **Notable Work**: GIS-based Deforestation Monitoring & LULC Classification  
+- 📊 **Notable Work**: Drought Monitoring System, Environmental indices application 
 - 💡 **Topics I Love**: Environmental Monitoring, ML for GIS, and Geospatial Intelligence  
 
 ---
@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=arcgis&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/SNAP-FF5722?style=for-the-badge" />
 </p>
 
 #### Machine Learning & AI  
