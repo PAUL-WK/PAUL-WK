@@ -91,19 +91,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulkimani&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
----
-
-### ✅ How to Use This  
-1. **Copy this code into your `README.md`** inside your GitHub profile repository  
-2. **Replace any incorrect usernames or links** with your actual profile links  
-3. **Push the changes to GitHub**  
-   ```sh
    git add README.md
    git commit -m "Updated GitHub profile README"
    git push origin main
